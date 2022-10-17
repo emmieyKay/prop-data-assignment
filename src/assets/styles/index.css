@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+@font-face {
+    font-family: headeFont;
+    src: url('../fonts/Giane-Bold.otf');
+ }
+
+ .my-title {
+  font-family: headeFont;
+}
