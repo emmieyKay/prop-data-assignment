@@ -32,7 +32,7 @@ This is a react application that has 3 pages:
 		Will need to apply some animation. Either using CSS or jQuery ect...
 
 ### Live Demo
-[Netlify](https://633b0fef9d60300046ef1058--react-spacex-app.netlify.app)
+[Netlify](https://634d0c5f735def399f36e342--prop-data-assignment.netlify.app/)
 ### Built using
 
 - [React](https://handsonreact.com/docs/labs/react-tutorial-typescript)
