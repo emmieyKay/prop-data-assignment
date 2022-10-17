@@ -10,13 +10,13 @@ This is a react application that has 3 pages:
 - FRAMEWORK:
   * You may use a framework of your choice. The attached layout is using the Grid960 framework.
 
-2. MOBI RESPONSIVE:
+- MOBI RESPONSIVE:
   	* Yes, you will need to cater for mobile devices based on this layout.
 
-3. LAYOUT: 
+- LAYOUT: 
  	 * The final result should look the same as the Figma layout provided. Attention to detail is key!
 
-4. KEY POINTS:
+- KEY POINTS:
    	* Header
 		 - Slider: 
 			Will need to rotate between the 2 images every 8 seconds.
